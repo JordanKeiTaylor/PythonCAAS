@@ -1,0 +1,11 @@
+{
+  "pathToPythonInterpreter":"example/path",
+  "size" : "1000",
+  "groupsInPopulation": {"GroupA":".66","GroupB":".34"},
+  "attributes": ["Conflict","AversiontoGroupA","AversiontoGroupB"],
+  "attributeDistributions": {
+    "GroupA":{"Conflict": "/Users/jordantaylor/Desktop/PythonPopulatIonGenerator/distribution.csv","AversiontoGroupA":"/Users/jordantaylor/Desktop/PythonPopulatIonGenerator/distribution.csv","AversiontoGroupB":"/Users/jordantaylor/Desktop/PythonPopulatIonGenerator/distribution.csv"},
+    "GroupB":{"Conflict": "/Users/jordantaylor/Desktop/PythonPopulatIonGenerator/distribution.csv","AversiontoGroupA":"/Users/jordantaylor/Desktop/PythonPopulatIonGenerator/distribution.csv","AversiontoGroupB":"/Users/jordantaylor/Desktop/PythonPopulatIonGenerator/distribution.csv"}
+  },
+  "pedestrians": "50"
+}
